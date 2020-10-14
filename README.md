@@ -1,7 +1,7 @@
 # HubChartPattern_D365FO
 Using form with HubChartpattern in Dynamics AX Finance and Operation (D365FO)
 Imaging that we need to show number of sales order of each Customer by Year and Month.
-This project to show you step by step to do that (see attachted video file).
+This project will show you step by step to do that (see attachted video file).
 
 #MAIN COMPONENTS:
 Table:
